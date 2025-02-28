@@ -15,7 +15,7 @@ public class Aula06EstruturasDeRepeticao03 {
             if (valorParcela >= 1000){
                 System.out.println("Parcela "+ parcela+ "R$ "+valorParcela);
             }else{
-                break;
+                continue;
             }
             System.out.println("Fora do if, mas dentro do for "+parcela);
         }
