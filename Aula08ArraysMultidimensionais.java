@@ -17,7 +17,7 @@ public class Aula08ArraysMultidimensionais {
             }
         }
 
-        
+
 
         for(int[] arrBase : dias){
             for (int num: arrBase){
